@@ -102,7 +102,7 @@ A aplicação está estruturada para fornecer uma experiência completa tanto pa
 * [React](https://pt-br.legacy.reactjs.org/) - Framework de Interfaces 
 * [Tailwind](https://tailwindcss.com/docs/) - Biblioteca de Estilização
 
-Design feito no [Figma](https://www.figma.com/file/O2iXxZphSEmo6E9LglOKUo/AsaySolution?type=design&node-id=130-2&mode=design&t=8u53HUboeVHIFkey-0)
+Design feito no [Figma](https://www.figma.com/design/t91s3UitmARedGF8DIlhwY/PeriferPlus?node-id=0-1&t=uKB1nbW1Fg54fAfe-0)
 
 ## Documentação da API (Swagger)
 
